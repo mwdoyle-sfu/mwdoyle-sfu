@@ -2,7 +2,7 @@
 
 ## I'm a 4th Year CS Student and Software Developer!
 
-- 🔭 I’m currently working on a [Compiler][website]!
+- 🔭 I’m currently working on a [Compiler] for the Decaf Programming Language[website]!
 - 🌱 I’m currently learning about Compilers, Software Testing, Reliability and Security, and User Interface Design
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Compete in another Hackathon before my graduation in 2021
