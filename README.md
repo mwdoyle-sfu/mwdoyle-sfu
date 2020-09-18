@@ -65,7 +65,8 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="mwdoyle-sfu's Github Stats" src="https://github-readme-stats.mwdoyle-sfu.vercel.app/api?username=mwdoyle-sfu&show_icons=true&hide_border=true" />
+  [![Matts's github stats](https://github-readme-stats.vercel.app/api?username=mwdoyle-sfu)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 [website]: http://anoopsarkar.github.io/compilers-class/decafspec.html
