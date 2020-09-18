@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about Compilers, Software Testing, Reliability and Security, and User Interface Design
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Compete in another Hackathon before my graduation in 2021
-- ⚡ I love to play golf, guitar, and of course play video games!
+- ⚡ I love to play golf, guitar, and of course video games!
 
 ### Connect with me:
 
