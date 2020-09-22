@@ -68,8 +68,7 @@
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Matts's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mwdoyle-sfu&show_icons=true&hide_border=true" />
 
-  <summary>:zap: Github Stats</summary>
-    <img align="left" alt="Matts's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdoyle-sfu&layout=compact" />
+  <img align="left" alt="Matts's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwdoyle-sfu&layout=compact" />
 
 </details>
 
