@@ -1,6 +1,6 @@
 ### Hi there, I'm Matt 👋
 
-## I'm a 4th Year CS Student and Software Developer!
+### I'm a 4th Year CS Student and Software Developer!
 
 - 🔭 I’m currently working on a [Compiler][website] for the Decaf Programming Language!
 - 🌱 I’m currently learning about Compilers, Software Testing, Reliability and Security, and User Interface Design
