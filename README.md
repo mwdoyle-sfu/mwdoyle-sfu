@@ -1,11 +1,11 @@
 ### Hi there, I'm Matt 👋
 
-### I'm a 4th Year CS Student and Software Developer!
+### I'm a Computing Science Graduate from Simon Fraser University and Software Engineer working on aviation/satellite systems!
 
-- 🔭 I’m currently working on a [Compiler][website] for the Decaf Programming Language!
-- 🌱 I’m currently learning about Compilers, Software Testing, Reliability and Security, and User Interface Design
+- 🔭 My university capstone project is a [Compiler][website] called the Decaf Programming Language!
+- 🌱 I’m currently learning about algorithms, system design, and web development
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Compete in another Hackathon!
+- 🥅 2022 Goals: Compete in another Hackathon!
 - ⚡ I love to play golf, guitar, and of course video games!
 
 ### Connect with me:
